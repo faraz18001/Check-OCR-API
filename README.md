@@ -114,7 +114,7 @@ GET /health
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/check-ocr-api.git
+git clone https://github.com/faraz18001/check-ocr-api.git
 cd check-ocr-api
 
 # Install dependencies
